@@ -4,7 +4,7 @@
 func bubbleSort(arr []int) []int {
 	l := len(arr)
 	for i := 0; i < l-1; i++ {
-        
+
 		isSort := true
 
 		for j := 0; j < l-i-1; j++ {
@@ -27,3 +27,5 @@ func bubbleSort(arr []int) []int {
 	return arr
 }
 ```
+
+![Bubble Sort](img/bubble_sort.png)
