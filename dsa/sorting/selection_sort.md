@@ -20,3 +20,5 @@ func selectionSort(arr []int) []int {
 	return arr
 }
 ```
+
+![Selection Sort](img/selection_sort.png)
